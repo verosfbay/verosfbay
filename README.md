@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @verosfbay
-- 👀 I’m interested in Software Engineering and other Techbology fields 
-- 🌱 I’m currently learning UX Design
+- 👀 I’m interested in Data Analysis and other Techbology fields 
+- 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
